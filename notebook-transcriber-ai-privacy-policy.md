@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Our Privacy Policy explains how **Kasmael** (“we”, “us”, or “our”) collects, uses, and protects your information.
+Our Privacy Policy explains how **Kasmael** we collects, uses, and protects your information.
 
 Kasmael built the **Notebook Transcriber AI** app as a **freemium application**, offering both **free features** and **optional premium features**. This SERVICE is provided by Kasmael and is intended for use as is.
 
